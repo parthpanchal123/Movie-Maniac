@@ -4,3 +4,9 @@ A simple web-app that takes in a movie name from the user and then gives all the
 
 Made with HTML5 , CSS3 and Javascript .
 The api used is : <a href="https://www.omdbapi.com/">OMDB API</a>
+
+Working Images :
+
+![alt text](https://github.com/parthpanchal123/Movie-Maniac/blob/master/Screensht.png)
+
+![alt text](https://github.com/parthpanchal123/Movie-Maniac/blob/master/screensht2.png)
