@@ -1,0 +1,32 @@
+@media only screen
+and (max-width : 600px){
+  
+  header h1 {
+    
+    font-size: 30px ;
+  }
+  
+  header h2 {
+    font-size: 15px ;
+  }
+  
+  
+  .input_info {
+    width: 95%;
+    height : 20%;
+  }
+  
+  .input_info input[type="text"] {
+    
+    width : 200px;
+  }
+  .input_info input[type="text"]:focus {
+  
+    transition:  box-shadow 0.3s;
+    box-shadow: 8px 1px 15px #888888;
+
+    
+  }
+  
+  
+}
